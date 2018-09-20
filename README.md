@@ -1,7 +1,7 @@
 # Description
 Test task to GOSU.AI
 
-# What new for me
+# What I've learned
 - SQL query
 - Percentage encoding
 - Statistic significance test that 2 samples have identical expected values
