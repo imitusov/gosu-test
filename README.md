@@ -1,7 +1,7 @@
 # Description
 Test task to GOSU.AI
 
-# Benefits
+# What new for me
 - SQL query
 - Percentage encoding
 - Statistic significance test that 2 samples have identical expected values
