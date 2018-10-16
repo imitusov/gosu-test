@@ -7,5 +7,5 @@ Test task to GOSU.AI
 - Statistic significance test that 2 samples have identical expected values
 - Intercept in regression analysis
 - Regression coefficient significance
-- Player's mouse activite graph
+- Player's mouse activity graph
 - Match analysis
